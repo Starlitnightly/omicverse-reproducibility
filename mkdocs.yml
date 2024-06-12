@@ -6,11 +6,30 @@ copyright: "Copyright &copy; 2019-2023, 112 Lab, USTB"
 
 nav:
 - Home: 'index.md'
-- Supplement bulk2single: 'ov_bulk2single_ad.ipynb'
-- Supplement DEG: 'ov_deg.ipynb'
-- Supplement WGCNA: 'ov_wgcna.ipynb'
-- Supplement GLUE prepare: 'ov_glue_preprocessed.ipynb'
-- Supplement MOFA : 'ov_mofa.ipynb'
+- Metric(Figure_2,sfig2,sfig3,sfig4):
+  - Dentategyrus:
+    - ACGAN: 'dg_ACGAN.ipynb'
+    - CGAN: 'dg_CGAN.ipynb'
+    - BulkTrajBlend: 'dg_bulktrajblend.ipynb'
+    - metric: 'dg_metric_bulktrajblend.ipynb'
+  - Hematopoietic:
+    - ACGAN: 'hpc_ACGAN.ipynb'
+    - CGAN: 'hpc_CGAN.ipynb'
+    - BulkTrajBlend: 'hpc_bulktrajblend.ipynb'
+    - metric: 'hpc_metric_bulktrajblend.ipynb'
+  - Metric_all:
+    - Metric1: 'metric1.ipynb'
+    - Metric2: 'metric2.ipynb'
+- Bulk RNA-seq(Figure_4): 
+  - DEG: ov_deg.ipynb
+  - WGCNA: ov_wgcna.ipynb
+- Single RNA-seq(Figure_5,sfig7):
+  - CRC: ov_scrna.ipynb
+  - CRC-Epi: ov_scrna-epi.ipynb
+- Multi-omics(Figure_6,sfig8):
+  - GLUE: ov_glue_preprocessed.ipynb
+  - MOFA: ov_mofa.ipynb
+
 
   
 
