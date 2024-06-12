@@ -20,6 +20,7 @@ nav:
   - Metric_all:
     - Metric1: 'metric1.ipynb'
     - Metric2: 'metric2.ipynb'
+- Simulated interruptions(Figure_3,sfig4,sfig5): ov_simulated_interruptions.ipynb
 - Bulk RNA-seq(Figure_4): 
   - DEG: ov_deg.ipynb
   - WGCNA: ov_wgcna.ipynb
