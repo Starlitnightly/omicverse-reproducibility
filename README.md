@@ -1,6 +1,6 @@
 # omicverse-reproducibility
 
-Reproducibility of results/figures from omicverse paper. **`OmicVerse`** is the fundamental package for multi omics included **bulk ,single cell and spatial RNA-seq** analysis with Python. For more information, please read our paper: [OmicVerse: A single pipeline for exploring the entire transcriptome universe](https://www.biorxiv.org/content/10.1101/2023.06.06.543913v2)
+Reproducibility of results/figures from omicverse paper. **`OmicVerse`** is the fundamental package for multi omics included **bulk ,single cell and spatial RNA-seq** analysis with Python. For more information, please read our paper: [OmicVerse: A single pipeline for exploring the entire transcriptome universe](https://www.nature.com/articles/s41467-024-50194-3)
 
 A collection of processed data discussed in this manuscript have been deposited on figshare (https://doi.org/10.6084/m9.figshare.23165636) and (https://doi.org/10.6084/m9.figshare.26023324).
 
